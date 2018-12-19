@@ -1,3 +1,2 @@
 # API
-API em NodeJS
-Creating a REST API with Node.js and MongoDB
+Creating a API with Node.js and MongoDB
